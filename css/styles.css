@@ -52,6 +52,10 @@ ul {
   /* outline: 2px solid red; */
 }
 
+img {
+  display: block;
+}
+
  
 /* ~~~~~~~ШАПКА~~~~~~~ */
 .logo {
